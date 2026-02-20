@@ -29,12 +29,6 @@ This repository contains a very basic chatbot built using Python and the NLTK li
    pip install nltk
    ```
 
-   Alternatively, if a `requirements.txt` file is added later:
-
-   ```powershell
-   pip install -r requirements.txt
-   ```
-
 ## Running the chatbot
 
 Execute the script with Python while the virtual environment is active:
